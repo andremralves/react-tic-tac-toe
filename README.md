@@ -1,6 +1,6 @@
 # React Tic Tac Toe
 
-This project is based on React tutorial in react documentation, but I added some improvements to make this project even cooler;
+This project is based on the React tutorial in the react documentation, but I added some improvements to make this project even cooler;
 
 ## :scroll: TODO:
 
